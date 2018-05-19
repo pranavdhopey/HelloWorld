@@ -1,3 +1,2 @@
 Hello..
-cheking git pulling on jenkins
-checking git..jenkins
+Testing git from Windows....
